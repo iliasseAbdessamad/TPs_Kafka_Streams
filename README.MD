@@ -1,6 +1,6 @@
 <h1>
 Kafka Streams 
-<img src="assets/kafka-streams-logo.png" alt="Kafka Streams" width="20" height="20" style="vertical-align:middle" />
+![Kafka Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka_wordtype.svg)
 </h1>
 
 Ce repository contient 3 mini-projets qui montrent comment développer des applications pour 
