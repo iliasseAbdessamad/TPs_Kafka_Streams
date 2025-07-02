@@ -1,7 +1,7 @@
 <h1>🧠 Realtime Weather Processing</h1>
 
 Une application basé sur <b>Kafka Streams</b> qui permet de lire les données météorologiques de différentes
-stations météorologiques depuis le <b>Topic "weather-data"</h1> , de traiter ces données, 
+stations météorologiques depuis le <b>Topic "weather-data"</b> , de traiter ces données, 
 et de les produire dans un autre topic Kafka ("satation-averages") prêtes à être consomées.
 <br />
 
