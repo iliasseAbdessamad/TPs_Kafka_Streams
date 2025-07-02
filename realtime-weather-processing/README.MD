@@ -12,7 +12,7 @@ est de distinguer entre les 3 type de flux de données (data streams) dans une a
 repésentant la logique de traitement des données dans une application <b>Kafka Streams</b>
 
 <br />
-<img src="./imgs/processor_topology.png" alt="Processors Topology"/>
+<img src="./imgs/processors_topology.png" alt="Processors Topology"/>
 
 <ul>
 <li><b>Source Processor</b> : Point d'entrée de la topology, lisant les messages depuis un topic Kafka</li>
