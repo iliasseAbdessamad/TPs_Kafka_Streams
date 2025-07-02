@@ -19,7 +19,7 @@ applications ou services. <i>(recommandée pour les débutants)</i>
 </li>
 
 <li>
-<a href="./realtime-wheather-processing">realtime-wheather-processing</a> : 
+<a href="./realtime-weather-processing">realtime-weather-processing</a> : 
 Traitement en temps reel des données météologiques via `Kafka Streams`
 </i>
 </li>
