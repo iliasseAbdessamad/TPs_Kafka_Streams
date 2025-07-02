@@ -1,6 +1,6 @@
 <h1>
 Kafka Streams 
-<img src="./realtime-weather-processing/imgs/kafka.webp" width="80px" height="82px" style="position:relative;top=20px" alt="icone Apache Kafka Streams" />
+<img src="./realtime-weather-processing/imgs/kafka.webp" width="80px" height="82px" alt="icone Apache Kafka Streams" />
 </h1>
 
 Ce repository contient 3 mini-projets qui montrent comment développer des applications pour 
