@@ -26,6 +26,6 @@ Traitement en temps reel des données météologiques via `Kafka Streams`
 </ul>
 
 <h3>❗ Important</h3>
-Assurez vous que vous avez `Java 8+`, `Maven` et `Docker` installés sur votre machine. 
+Assurez vous que vous avez <b>Java 8+</b>, <b>Maven</b> et <b>Docker</b> installés sur votre machine. 
 
 
